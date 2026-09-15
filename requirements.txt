@@ -1,0 +1,9 @@
+streamlit>=1.38
+pandas>=2.0
+numpy>=1.26
+scipy>=1.11
+pulp>=2.8
+statsmodels>=0.14
+folium>=0.17
+streamlit-folium>=0.23
+matplotlib>=3.8

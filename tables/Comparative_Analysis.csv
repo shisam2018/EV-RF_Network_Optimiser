@@ -1,0 +1,4 @@
+Method,Status,Coverage (%),Served demand (units),Unmet demand (units),Avg. travel distance (km),Cost_CD,Cost_IF,Cost_DM (exogenous),Total lifecycle cost,Cost per unit served,New SCS,New FCS,Est. capex (INR lakh),Solve time (s)
+"MILP (Branch-and-Bound, CBC)",Optimal,35.55,1212400.0,2198198.6,0.885,1072653.0,4556.0,88906.3,6028910.5,4.9727,0,2998,6745.5,1.413
+LP-relaxation + rounding (heuristic),Heuristic,35.55,1212400.0,2198198.6,3.83,4643304.2,4556.0,88906.3,9599561.7,7.9178,0,2998,6745.5,0.863
+Greedy nearest-assignment (heuristic),Heuristic,17.97,612800.0,2797798.6,4.21,2580033.7,3057.0,88906.3,6636891.3,10.8304,2998,0,4497.0,0.03
