@@ -4,7 +4,7 @@ Optimal siting and capacity planning of Electric Vehicle Recharging Facilities
 (EV-RF) for Bengaluru, Karnataka, using an exact Mixed-Integer Linear Program
 (MILP) solved via Branch-and-Bound (COIN-OR CBC), benchmarked against two
 heuristic baselines, with a GeoJSON-driven Streamlit dashboard.
-
+App URL: https://ev-rf-network-optimization.streamlit.app/
 ## Contents
 
 - `app.py` — single-file Python application: data generation, demand
